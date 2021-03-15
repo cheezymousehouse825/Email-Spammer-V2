@@ -13,4 +13,5 @@ Make some gmail accounts and allow them to be used by [Less secure apps](https:/
 ## **Important**
 
 Please don't use this seriously, it is only for education.
+
 **Your gmail passwords will be stored in the json file, if you don't want people to be able to see it, please delete the json file (you will have to update the settings every time when you do this)**
