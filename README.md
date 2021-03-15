@@ -8,7 +8,7 @@ You can download the python files and install all the libraries, or you can go t
 
 ## Directions
 
-Make some gmail accounts and allow them to be used by [Less secure apps](https://myaccount.google.com/lesssecureapps), then run the settings file. Put in the usernames of the accounts you just made, the passwords of the accounts you just made, and the recipients, and finally, the message you would like sent. Once you have the settings down, you can run the file. You should just see a black box, and it will spam people until you close the window.
+Make some gmail accounts and allow them to be used by [Less secure apps](https://myaccount.google.com/lesssecureapps), then run the settings file. Put in the usernames of the accounts you just made, the passwords of the accounts you just made, and the recipients, and finally, the message you would like sent. Once you have the settings down, you can run the main file. You should just see a black box, and it will spam people until you close the window.
 
 ## **Important**
 
