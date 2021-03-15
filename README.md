@@ -4,7 +4,7 @@ To use if someone is getting on your nerves (please don't abuse it)
 
 ## Installation
 
-You can download the python files and install all the libraries, or you can go to the [latest release](https://github.com/ohgodmanyo/Email-Spammer-V2/releases/tag/v0.0.1)
+You can download the python files and install all the libraries, or you can go to the [releases tab](https://github.com/ohgodmanyo/Email-Spammer-V2/releases/)
 
 ## Directions
 
